@@ -1,0 +1,36 @@
+{
+  "name": "evm-interaction-scripts",
+  "version": "1.0.0",
+  "description": "Web3 scripts for deploying contracts and interacting with them",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xlimon/EVM-interaction-scripts.git"
+  },
+  "keywords": [
+    "web3",
+    "solidity",
+    "blockchain",
+    "ethereum",
+    "evm"
+  ],
+  "author": "0xLimon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0xlimon/EVM-interaction-scripts/issues"
+  },
+  "homepage": "https://github.com/0xlimon/EVM-interaction-scripts#readme",
+  "dependencies": {
+    "web3": "^1.6.0",
+    "dotenv": "^10.0.0",
+    "readline-sync": "^1.4.10",
+    "chalk": "^4.1.2",
+    "ora": "^5.4.1",
+    "canvas": "^2.8.0",
+    "solc": "^0.8.0"
+  }
+}
