@@ -3,6 +3,9 @@
 
 This project contains web3 scripts for deploying contracts and interacting with them on the EVM-compatible blockchains. It includes functionalities for deploying a contract, sending transactions, and interacting with deployed contracts.
 
+**Note:** This script has been tested only on the Sepolia network. Use it on mainnets at your own risk. Make sure to thoroughly test and understand the script before deploying it on any mainnet network.
+
+
 ## Installation
 
 1. Clone the repository:
