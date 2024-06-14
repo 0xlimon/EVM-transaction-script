@@ -3,18 +3,13 @@
 
 This project contains web3 scripts for deploying contracts and interacting with them on the EVM-compatible blockchains. It includes functionalities for deploying a contract, sending transactions, and interacting with deployed contracts.
 
-## Prerequisites
-
-- Node.js (>= 14.x)
-- npm (>= 6.x)
-
 ## Installation
 
 1. Clone the repository:
 
     ```bash
     git clone https://github.com/0xlimon/EVM-interaction-scripts.git
-    cd EVM-SmartContract-Interactions
+    cd EVM-interaction-scripts
     ```
 
 2. Install the dependencies:
