@@ -10,6 +10,7 @@ This project contains web3 scripts for deploying contracts and interacting with 
     ```bash
     git clone https://github.com/0xlimon/EVM-interaction-scripts.git
     cd EVM-interaction-scripts
+    mkdir build
     ```
 
 2. Install the dependencies:
